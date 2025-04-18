@@ -4,7 +4,7 @@ This project is an AI-powered chatbot that converts natural language questions i
 a SQLite database. It uses Groq’s LLaMA3 model with LangChain to interpret English queries and return database results via 
 a Streamlit web app.
 
-# Appication tested on the following questions:
+# Application tested on the following questions:
 
 1) What are the average marks class wise?
 
