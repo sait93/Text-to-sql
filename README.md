@@ -6,7 +6,7 @@ a Streamlit web app.
 
 # Appication tested on the following questions:
 
-What are the average marks class wise?
+#  What are the average marks class wise?
 Name of the student who scored the highest marks?
 Name of the student who scored the lowest marks?
 Name of the student with the second highest marks in DEVOPS course?
